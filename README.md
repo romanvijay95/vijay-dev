@@ -7,6 +7,7 @@ PL/SQL • ETL/Data Migration • Unix/Linux • Oracle & Postgres • Automatio
 👨‍💻 About Me:
 
 💼 I design and build data/ETL pipelines and Oracle PL/SQL solutions with a strong focus on performance tuning & deployment automation.
+
 🔭 Currently learning: advanced SQL tuning, Linux tooling, and DevOps practices.
 
 🧰 Tech Stack:
@@ -31,6 +32,7 @@ I enjoy turning messy processes into reliable, automated systems.
 🔄 Data Migration:
 
 From upstream sources → database (Excel, flat files, APIs).
+
 From database → downstream systems (reporting, dashboards, external systems).
 
 ⚙️ Automation & Monitoring:
