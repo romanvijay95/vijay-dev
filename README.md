@@ -38,9 +38,13 @@ From database → downstream systems (reporting, dashboards, external systems).
 ⚙️ Automation & Monitoring:
 
 📧 Email alert automation for job failure/success.
+
 📊 Hourly stats refresh jobs.
+
 🗑️ Error log table purge & maintenance.
+
 📥 Automated feed loading status tracking.
+
 🚨 Error log alert automation with notifications.
 
 🔗 Featured Projects
@@ -59,11 +63,15 @@ A sandbox for SQL query tuning with examples of execution plans, indexing, and p
 📚 What I’m Focusing On
 
 🛠 Building automation workflows for database deployments.
+
 ⚡ Exploring ETL performance optimization in large datasets.
+
 🐧 Sharpening my Linux/Unix scripting & DBA activities.
+
 📈 Preparing for PL/SQL + ETL interviews with hands-on projects.
 
 🌐 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/vijay-a-173508193
+
 Email: romanvijay95@gmail.com
