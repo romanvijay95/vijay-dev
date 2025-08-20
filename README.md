@@ -1,6 +1,7 @@
 # vijay-dev
 
 Hi, I'm Vijay 👋
+
 PL/SQL • ETL/Data Migration • Unix/Linux • Oracle & Postgres • Automation
 
 👨‍💻 About Me
