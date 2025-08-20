@@ -12,19 +12,15 @@ PL/SQL • ETL/Data Migration • Unix/Linux • Oracle & Postgres • Automatio
 🧰 Tech Stack:
 
 Databases: 
-
 Oracle, PostgreSQL, SQL
 
 Scripting & Tools: 
-
 PL/SQL, SQL*Plus, Shell/Unix scripting, GitHub Actions
 
 ETL / Data Migration: 
-
 SQL Loader, SSIS
 
 Automation: 
-
 PL/SQL deployment, GitHub CI/CD, Linux scripting
 
 
