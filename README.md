@@ -4,11 +4,13 @@ Hi, I'm Vijay 👋
 
 PL/SQL • ETL/Data Migration • Unix/Linux • Oracle & Postgres • Automation
 
+
 👨‍💻 About Me:
 
 💼 I design and build data/ETL pipelines and Oracle PL/SQL solutions with a strong focus on performance tuning & deployment automation.
 
 🔭 Currently learning: advanced SQL tuning, Linux tooling, and DevOps practices.
+
 
 🧰 Tech Stack:
 
@@ -26,6 +28,7 @@ PL/SQL deployment, GitHub CI/CD, Linux scripting
 
 
 I enjoy turning messy processes into reliable, automated systems.
+
 
 🚀 My Work Involves
 
@@ -47,6 +50,7 @@ From database → downstream systems (reporting, dashboards, external systems).
 
 🚨 Error log alert automation with notifications.
 
+
 🔗 Featured Projects
 
 🚀 Some of my key repositories:
@@ -60,6 +64,7 @@ Python tool to map Excel comments into DB tables with stored procedure integrati
 oracle-sql-tuning-playground
 A sandbox for SQL query tuning with examples of execution plans, indexing, and performance best practices.
 
+
 📚 What I’m Focusing On
 
 🛠 Building automation workflows for database deployments.
@@ -69,6 +74,7 @@ A sandbox for SQL query tuning with examples of execution plans, indexing, and p
 🐧 Sharpening my Linux/Unix scripting & DBA activities.
 
 📈 Preparing for PL/SQL + ETL interviews with hands-on projects.
+
 
 🌐 Connect With Me
 
