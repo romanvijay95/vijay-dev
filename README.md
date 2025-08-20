@@ -21,10 +21,12 @@ I enjoy turning messy processes into reliable, automated systems.
 🚀 My Work Involves
 
 🔄 Data Migration:
+
 From upstream sources → database (Excel, flat files, APIs).
 From database → downstream systems (reporting, dashboards, external systems).
 
 ⚙️ Automation & Monitoring:
+
 📧 Email alert automation for job failure/success.
 📊 Hourly stats refresh jobs.
 🗑️ Error log table purge & maintenance.
