@@ -4,7 +4,7 @@ Hi, I'm Vijay 👋
 
 PL/SQL • ETL/Data Migration • Unix/Linux • Oracle & Postgres • Automation
 
-👨‍💻 About Me
+👨‍💻 About Me:
 
 💼 I design and build data/ETL pipelines and Oracle PL/SQL solutions with a strong focus on performance tuning & deployment automation.
 🔭 Currently learning: advanced SQL tuning, Linux tooling, and DevOps practices.
