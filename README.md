@@ -2,7 +2,7 @@
 
 Hi, I'm Vijay 👋
 
-PL/SQL • ETL/Data Migration • Unix/Linux • Oracle & Postgres • Automation
+PL/SQL • ETL/Data Migration/SQL Loader • Unix/Linux • Oracle & SQL • Automation
 
 
 👨‍💻 About Me:
